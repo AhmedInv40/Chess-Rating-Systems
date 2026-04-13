@@ -1,5 +1,5 @@
 # Chess-Rating-Systems: Building and comparing Elo & Glicko-2.
-A project that implements Elo and Glock-2 rating systems from scratch, evaluates them on real chess data, and tests statistical hypothesis about factors that influence game outcomes.
+A project that implements Elo and Glicko-2 rating systems from scratch, evaluates them on real chess data, and tests statistical hypothesis about factors that influence game outcomes.
 
 ## Data Sources
 | Source | Format | Size | Description |
